@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://crystalstudio.pp.ua</id>
     <title>CrystalStudio</title>
-    <updated>2020-08-19T09:47:59.264Z</updated>
+    <updated>2020-08-19T10:01:57.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://crystalstudio.pp.ua"/>
     <link rel="self" href="http://crystalstudio.pp.ua/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>http://crystalstudio.pp.ua/images/avatar.png</logo>
     <icon>http://crystalstudio.pp.ua/favicon.ico</icon>
     <rights>All rights reserved 2020, CrystalStudio</rights>
+    <entry>
+        <title type="html"><![CDATA[我是如何在Cloudflare用上CNAME解析开代理的]]></title>
+        <id>http://crystalstudio.pp.ua/post/wo-shi-ru-he-zai-cloudflare-yong-shang-cname-jie-xi-kai-dai-li-de/</id>
+        <link href="http://crystalstudio.pp.ua/post/wo-shi-ru-he-zai-cloudflare-yong-shang-cname-jie-xi-kai-dai-li-de/">
+        </link>
+        <updated>2020-08-19T09:55:48.000Z</updated>
+        <content type="html"><![CDATA[<p>我在今天的时候打算重建博客<br>
+然后我确实重建好了<br>
+然后我说了这么一句话<br>
+水晶二代目-爱国爱党爱人民 17:23:46<br>
+az</p>
+<p>水晶二代目-爱国爱党爱人民 17:23:48<br>
+好像</p>
+<p>水晶二代目-爱国爱党爱人民 17:23:50<br>
+cf</p>
+<p>水晶二代目-爱国爱党爱人民 17:24:02<br>
+并不能代理cname</p>
+<p>然后</p>
+<p>PP Kun 17:24:57<br>
+@水晶二代目-爱国爱党爱人民 可以啊傻逼</p>
+<p>PP Kun 17:25:01<br>
+cname接入</p>
+<p>PP Kun 17:25:04<br>
+cname代理</p>
+<p>然后我就去一个叫笨牛网的地方（cdn.bnxb.com）接入了我的域名<br>
+接着我发现cname增加了加速选项<br>
+舒适np</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新博客]]></title>
         <id>http://crystalstudio.pp.ua/post/xin-bo-ke/</id>
