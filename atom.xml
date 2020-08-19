@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://crystalstudio.pp.ua</id>
+    <title>CrystalStudio</title>
+    <updated>2020-08-19T09:02:12.880Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://crystalstudio.pp.ua"/>
+    <link rel="self" href="http://crystalstudio.pp.ua/atom.xml"/>
+    <subtitle>你说为什么不上Hexo？那你倒是来教我用啊</subtitle>
+    <logo>http://crystalstudio.pp.ua/images/avatar.png</logo>
+    <icon>http://crystalstudio.pp.ua/favicon.ico</icon>
+    <rights>All rights reserved 2020, CrystalStudio</rights>
+    <entry>
+        <title type="html"><![CDATA[新博客]]></title>
+        <id>http://crystalstudio.pp.ua/post/xin-bo-ke/</id>
+        <link href="http://crystalstudio.pp.ua/post/xin-bo-ke/">
+        </link>
+        <updated>2020-08-19T08:56:12.000Z</updated>
+        <content type="html"><![CDATA[<p>在司马叶少删了我aws服务器之后，我搭建了新的博客</p>
+]]></content>
+    </entry>
+</feed>
