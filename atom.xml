@@ -1,28 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://crystalworld.pp.ua</id>
-    <title>水晶世界</title>
-    <updated>2020-08-23T08:14:54.198Z</updated>
+    <title>水晶世界村</title>
+    <updated>2020-08-23T08:44:33.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://crystalworld.pp.ua"/>
     <link rel="self" href="http://crystalworld.pp.ua/atom.xml"/>
-    <subtitle>看看新闻，就在水晶世界</subtitle>
+    <subtitle>你的HTML就在水晶世界村</subtitle>
     <logo>http://crystalworld.pp.ua/images/avatar.png</logo>
     <icon>http://crystalworld.pp.ua/favicon.ico</icon>
-    <rights>All rights reserved 2020, 水晶世界</rights>
+    <rights>All rights reserved 2020, 水晶世界村</rights>
     <entry>
-        <title type="html"><![CDATA[QQ漏洞百出，相关人员不修复，隐私该何去何从？]]></title>
-        <id>http://crystalworld.pp.ua/post/qq-lou-dong-bai-chu-xiang-guan-ren-yuan-bu-xiu-fu-yin-si-gai-he-qu-he-cong/</id>
-        <link href="http://crystalworld.pp.ua/post/qq-lou-dong-bai-chu-xiang-guan-ren-yuan-bu-xiu-fu-yin-si-gai-he-qu-he-cong/">
+        <title type="html"><![CDATA[广告收益详情]]></title>
+        <id>http://crystalworld.pp.ua/post/guang-gao-shou-yi-xiang-qing/</id>
+        <link href="http://crystalworld.pp.ua/post/guang-gao-shou-yi-xiang-qing/">
         </link>
-        <updated>2020-08-23T08:06:03.000Z</updated>
-        <content type="html"><![CDATA[<p>前阵子暗网里面出现了一堆QQ黑科技<br>
-并且越来越多的人开始使用QQ黑科技进行盗号获取QQkey<br>
-这时候很多人第一反应就是反馈给腾讯<br>
-但是众所周知腾讯是莫得人工客服的<br>
-只有一堆只会无脑回答你的傻缺机器人<br>
-即使你想起诉腾讯侵犯隐私权南山必胜客也会欢迎你<br>
-QQ就完全没有隐私可言</p>
+        <updated>2020-08-23T08:40:48.000Z</updated>
+        <content type="html"><![CDATA[<p>我们允许您在水晶世界村托管的网站上面加入广告或者广告联盟的动态广告，但是我们禁止您在网站上插入涉黄、VPN翻墙软件推广等等广告，我们将会不定期查看您的网站广告合法性，如发现非法广告立即停止网站的运行</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在水晶世界村上传我的网页有什么好处？]]></title>
+        <id>http://crystalworld.pp.ua/post/zai-shui-jing-shi-jie-cun-shang-chuan-wo-de-wang-ye-you-shi-me-hao-chu/</id>
+        <link href="http://crystalworld.pp.ua/post/zai-shui-jing-shi-jie-cun-shang-chuan-wo-de-wang-ye-you-shi-me-hao-chu/">
+        </link>
+        <updated>2020-08-23T08:35:43.000Z</updated>
+        <content type="html"><![CDATA[<p>·您的网站将会出现在水晶世界村的介绍网页<br>
+·您的网站拥有我们的免费域名和Cloudflare加速<br>
+·您的网站安全地保存在我们的服务器上面<br>
+·您将会享受广告收益（详细信息请在另一个文章查看）<br>
+·您的网站在水晶世界村可以进行匿名制</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我该怎么在水晶世界村上传网站？]]></title>
+        <id>http://crystalworld.pp.ua/post/wo-gai-zen-me-zai-shui-jing-shi-jie-cun-shang-chuan-wang-zhan/</id>
+        <link href="http://crystalworld.pp.ua/post/wo-gai-zen-me-zai-shui-jing-shi-jie-cun-shang-chuan-wang-zhan/">
+        </link>
+        <updated>2020-08-23T08:29:04.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>您只需要给我们发邮件（crystalstudio@foxmail.com)<br>
+我们上传好您的网页之后将会回信通知您<br>
+并且给您赠送一个绑定了Cloudflare加速的域名（xxx.crystalworld.pp.ua)</p>
 ]]></content>
     </entry>
 </feed>
