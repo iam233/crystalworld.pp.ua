@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://crystalworld.pp.ua</id>
     <title>水晶世界村</title>
-    <updated>2020-08-23T08:54:24.856Z</updated>
+    <updated>2020-08-23T08:56:37.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://crystalworld.pp.ua"/>
     <link rel="self" href="http://crystalworld.pp.ua/atom.xml"/>
@@ -39,7 +39,7 @@
         </link>
         <updated>2020-08-23T08:29:04.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<p>您只需要给我们发邮件（crystalstudio@foxmail.com)<br>
+<p>您只需要给我们发邮件（sheep_ap@163.com)<br>
 （如果您想使用Github Pages来享受我们的服务是允许的）</p>
 <p>邮件格式如下：<br>
 域名：（xxx）.crystalworld.pp.ua<br>
