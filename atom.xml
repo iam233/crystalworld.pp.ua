@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://crystalstudio.pp.ua</id>
-    <title>CrystalStudio</title>
-    <updated>2020-08-19T10:09:45.896Z</updated>
+    <id>http://crystalworld.pp.ua</id>
+    <title>水晶世界</title>
+    <updated>2020-08-23T08:01:22.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://crystalstudio.pp.ua"/>
-    <link rel="self" href="http://crystalstudio.pp.ua/atom.xml"/>
-    <subtitle>你说为什么不上Hexo？那你倒是来教我用啊</subtitle>
-    <logo>http://crystalstudio.pp.ua/images/avatar.png</logo>
-    <icon>http://crystalstudio.pp.ua/favicon.ico</icon>
-    <rights>All rights reserved 2020, CrystalStudio</rights>
+    <link rel="alternate" href="http://crystalworld.pp.ua"/>
+    <link rel="self" href="http://crystalworld.pp.ua/atom.xml"/>
+    <subtitle>看看新闻，就在水晶世界</subtitle>
+    <logo>http://crystalworld.pp.ua/images/avatar.png</logo>
+    <icon>http://crystalworld.pp.ua/favicon.ico</icon>
+    <rights>All rights reserved 2020, 水晶世界</rights>
     <entry>
         <title type="html"><![CDATA[我是如何在Cloudflare用上CNAME解析开代理的]]></title>
-        <id>http://crystalstudio.pp.ua/post/wo-shi-ru-he-zai-cloudflare-yong-shang-cname-jie-xi-kai-dai-li-de/</id>
-        <link href="http://crystalstudio.pp.ua/post/wo-shi-ru-he-zai-cloudflare-yong-shang-cname-jie-xi-kai-dai-li-de/">
+        <id>http://crystalworld.pp.ua/post/wo-shi-ru-he-zai-cloudflare-yong-shang-cname-jie-xi-kai-dai-li-de/</id>
+        <link href="http://crystalworld.pp.ua/post/wo-shi-ru-he-zai-cloudflare-yong-shang-cname-jie-xi-kai-dai-li-de/">
         </link>
         <updated>2020-08-19T09:55:48.000Z</updated>
         <content type="html"><![CDATA[<p>我在今天的时候打算重建博客<br>
@@ -41,8 +41,8 @@ cname代理</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[新博客]]></title>
-        <id>http://crystalstudio.pp.ua/post/xin-bo-ke/</id>
-        <link href="http://crystalstudio.pp.ua/post/xin-bo-ke/">
+        <id>http://crystalworld.pp.ua/post/xin-bo-ke/</id>
+        <link href="http://crystalworld.pp.ua/post/xin-bo-ke/">
         </link>
         <updated>2020-08-19T08:56:12.000Z</updated>
         <content type="html"><![CDATA[<p>在司马叶少删了我aws服务器之后，我搭建了新的博客</p>
