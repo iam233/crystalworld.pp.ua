@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://crystalworld.pp.ua</id>
     <title>水晶世界村</title>
-    <updated>2020-08-23T08:44:33.261Z</updated>
+    <updated>2020-08-23T08:54:24.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://crystalworld.pp.ua"/>
     <link rel="self" href="http://crystalworld.pp.ua/atom.xml"/>
@@ -20,12 +20,12 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在水晶世界村上传我的网页有什么好处？]]></title>
+        <title type="html"><![CDATA[在水晶世界村提交我的网站有什么好处？]]></title>
         <id>http://crystalworld.pp.ua/post/zai-shui-jing-shi-jie-cun-shang-chuan-wo-de-wang-ye-you-shi-me-hao-chu/</id>
         <link href="http://crystalworld.pp.ua/post/zai-shui-jing-shi-jie-cun-shang-chuan-wo-de-wang-ye-you-shi-me-hao-chu/">
         </link>
         <updated>2020-08-23T08:35:43.000Z</updated>
-        <content type="html"><![CDATA[<p>·您的网站将会出现在水晶世界村的介绍网页<br>
+        <content type="html"><![CDATA[<p>·您的网站将会出现在水晶世界村的首页<br>
 ·您的网站拥有我们的免费域名和Cloudflare加速<br>
 ·您的网站安全地保存在我们的服务器上面<br>
 ·您将会享受广告收益（详细信息请在另一个文章查看）<br>
@@ -33,15 +33,22 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我该怎么在水晶世界村上传网站？]]></title>
+        <title type="html"><![CDATA[我该怎么在水晶世界村提交我的网站？]]></title>
         <id>http://crystalworld.pp.ua/post/wo-gai-zen-me-zai-shui-jing-shi-jie-cun-shang-chuan-wang-zhan/</id>
         <link href="http://crystalworld.pp.ua/post/wo-gai-zen-me-zai-shui-jing-shi-jie-cun-shang-chuan-wang-zhan/">
         </link>
         <updated>2020-08-23T08:29:04.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <p>您只需要给我们发邮件（crystalstudio@foxmail.com)<br>
-我们上传好您的网页之后将会回信通知您<br>
-并且给您赠送一个绑定了Cloudflare加速的域名（xxx.crystalworld.pp.ua)</p>
+（如果您想使用Github Pages来享受我们的服务是允许的）</p>
+<p>邮件格式如下：<br>
+域名：（xxx）.crystalworld.pp.ua<br>
+网站服务器：（IP）<br>
+网站名：<br>
+网站介绍：</p>
+<p>我们上传好您的网页之后将会回信通知您<br>
+并且给您赠送一个绑定了Cloudflare加速的域名（xxx.crystalworld.pp.ua)<br>
+我们增送的域名包含CDN加速，这可是比Github Pages自带的域名还快！</p>
 ]]></content>
     </entry>
 </feed>
